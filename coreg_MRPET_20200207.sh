@@ -5,7 +5,7 @@
 path=/mnt/work/yyi/temp/ED_coreg/MRPET
 
 # MNI template with filename
-MNI=/mnt/work/yyi/temp/ED_coreg/mni_icbm152_t1_tal_nlin_asym_09c.nii
+MNI=/mnt/work/yyi/temp/ED_coreg/MPRAGE_group.nii
 
 # template with filename
 template=/mnt/work/yyi/temp/ED_coreg/hc_template.nii.gz
